@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOS.PostgreService.WebApi", "TOS-PostgreService\TOS.PostgreService.WebApi.csproj", "{6041BD56-F72A-4D41-AC1C-8CAB820ED501}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOS.PostgreService.WebApi", "TOS-PostgreService.WebApi\TOS.PostgreService.WebApi.csproj", "{6041BD56-F72A-4D41-AC1C-8CAB820ED501}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

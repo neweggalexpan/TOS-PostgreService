@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/TOS-PostgreService/TOS.PostgreService.WebApi.csproj"
+                "${workspaceFolder}/TOS-PostgreService.WebApi/TOS.PostgreService.WebApi.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/TOS-PostgreService/bin/Debug/netcoreapp2.1/TOS.PostgreService.WebApi.dll",
+            "program": "${workspaceFolder}/TOS-PostgreService.WebApi/bin/Debug/netcoreapp2.1/TOS.PostgreService.WebApi.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/TOS-PostgreService",
+            "cwd": "${workspaceFolder}/TOS-PostgreService.WebApi",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {
